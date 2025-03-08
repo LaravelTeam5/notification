@@ -1,1 +1,1 @@
-Illuminate\Support\Facades\Log;:info("asd");
+Illuminate\Support\Facades\Log::info("asd");
